@@ -28,7 +28,7 @@ export const HeadersLists: Header[] = [
 	{
 		name: '留言板',
 		icon: '',
-		url: '/'
+		url: '/tell-cesium-test'
 	},
 	{
 		name: '关于',

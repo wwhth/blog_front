@@ -40,6 +40,11 @@ const router = createRouter({
         }
       ]
     },
+    {
+      path: '/tell-cesium-test',
+      name: 'tell',
+      component: () => import("../views/tell.vue")
+    }
     // {
     //   path:'/details',
     //   name:'Details',
