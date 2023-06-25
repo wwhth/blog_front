@@ -11,6 +11,7 @@
     "type-check": "vue-tsc --noEmit -p tsconfig.vitest.json --composite false"
   },
   "dependencies": {
+    "alova": "^2.6.1",
     "cesium": "*",
     "element-plus": "^2.2.33",
     "npm": "^9.6.0",
